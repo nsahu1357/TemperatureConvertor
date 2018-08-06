@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tempconverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tempconverter_jar</output-path>
+    <root id="archive" name="tempconverter.jar">
+      <element id="module-output" name="tempconverter" />
+    </root>
+  </artifact>
+</component>
